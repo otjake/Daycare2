@@ -1478,7 +1478,8 @@
                   <!-- address info -->
                   <p>We are located at 2211 East vermont Ave. Anaheim, CA 92806.</p>
                   <!-- Map -->
-                  <div id="map-canvas"></div>
+                   <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=2211%20East%20vermont%20Ave.%20Anaheim,%20CA%2092806&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br><style>.mapouter{position:relative;height:300px;width:400px;}</style><a href="https://www.embedgooglemap.net">create google maps for website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:417px;width:440px;}</style></div></div>
+
                </div>
                <!-- Contact Form -->
                <div class="col-lg-7 col-lg-offset-1">
