@@ -522,7 +522,7 @@
                         <i class="flaticon-person-1"></i>
                         <div class="media-body">
                            <h5 class="media-heading">Infant Care</h5>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                           <p>This is the core of our service, training children in the right way, so as to achieve the success.</p>
                         </div>
                      </div>
                      <!-- item5 -->
@@ -551,38 +551,39 @@
                   <div id="owl-testimonials" class="owl-carousel">
                      <!-- testimonial 1-->
                      <blockquote>
-                        <div class="col-md-4 col-lg-4 col-centered">
-                           <!-- testimonial image-->
-                           <img src="img/testimonial1.jpg" alt="" class="img-responsive img-circle">
-                        </div>
+<!--                        <div class="col-md-4 col-lg-4 col-centered">-->
+<!--                           testimonial image-->
+<!--                           <img src="img/testimonial1.jpg" alt="" class="img-responsive img-circle">-->
+<!--                        </div>-->
                         <div class="col-md-10 col-md-offset-1 quote-test">
                            <!-- quote -->
-                           <p>Suspendis Lotam tempore optio lorem ispuet doloremque laboriosam quas, quos eaque molestias odio aut eius animi Suspendisse a elementum anteu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-                           <small><i class="fa fa-user"></i>Joanna Vilken, TV Star</small>
+                           <p>My daughter’s kindergarten teacher is so impressed with how well she's transitioning to elementary school. In fact, she told us that Mary already has impressive academic skills and is making friends easily</p>
+                           <small><i class="fa fa-user"></i>Joanna</small>
                         </div>
                      </blockquote>
                      <!-- testimonial 2-->
                      <blockquote>
-                        <div class="col-md-4 col-lg-4 col-centered">
-                           <!-- testimonial image-->
-                           <img src="img/testimonial2.jpg" alt="" class="img-responsive img-circle">
-                        </div>
+<!--                        <div class="col-md-4 col-lg-4 col-centered">-->
+<!--                           testimonial image-->
+<!--                           <img src="img/testimonial2.jpg" alt="" class="img-responsive img-circle">-->
+<!--                        </div>-->
                         <div class="col-md-10 col-md-offset-1  quote-test">
                            <!-- quote -->
-                           <p>Laudantium totam tempore optio lorem ispuet doloremque aut eius animi Suspendisse a elementum ante. Nunc aliquet tincidunt quam, non egestas arcu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-                           <small><i class="fa fa-user"></i>John Cassady, Astronaut</small>
+                           <p>I have 3 kids, with Clems and they show significant progress every month, the last one an infant get extra care and attention</p>
+                           <small><i class="fa fa-user"></i>Cassady</small>
                         </div>
                      </blockquote>
                      <!-- testimonial 3-->
                      <blockquote>
-                        <div class="col-md-4 col-lg-4 col-centered">
-                           <!-- testimonial image-->
-                           <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle">
-                        </div>
+<!--                        <div class="col-md-4 col-lg-4 col-centered">-->
+<!--                            testimonial image-->
+<!--                           <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle">-->
+<!--                        </div>-->
                         <div class="col-md-10 col-md-offset-1 quote-test">
                            <!-- quote -->
-                           <p>Laboriosam quas, quos eaque lorem ispuet odio aut eius animi Suspendisse a elementum ante. Nunc aliquet tincidunt quam, non egestas arcu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-                           <small><i class="fa fa-user"></i>Maria Silveira, Model</small>
+                            <p>CLEMS care has been an unexpected blessing, as it has allowed my husband and i maintain their productivity.
+                                We transitioned seamlessly between preschool and school age</p>
+                           <small><i class="fa fa-user"></i>Silveira</small>
                         </div>
                      </blockquote>
                   </div>
@@ -621,10 +622,11 @@
                   </div>
                   <div class="col-lg-7 col-md-7">
                      <h3>Meet our Qualified Staff</h3>
-                     <p>Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac
-                        sodales felis tiam non Doloreiur qui commolu ptatemp dolupta orem retibusam 
-                        andigen Ibu lum orci eget, viverra elit aliquam erat volut pat phas ellus ac sodales felis tiam non metus.
-                        Placerat a ultricies a, posuere a nibh fusce mollis imperdie tlorem ipuset campas fincas interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget usce mollis imperdiet interdum donec eget metus auguen unc vel lorem ispuet Ibu lum orci eget, viverra elit liquam erat volut pat phas ellus ac sodales Lorem ipsum dolor sit amet, consectetur adipisicing elit uasi quidem minus id omnis.
+                     <p>
+                         Our Director,Mrs Sandra Clemens, has 20 years experience in childcare,
+                         and is certified in both early childhood education, and the Montessori method,
+                         And like all our staff she is trained in first Aid and CPR ,
+                         some having more than 5 years experience in child care development and well versed in child care development.
                      </p>
                   </div>
                </div>
@@ -633,9 +635,9 @@
                   <div class="col-lg-12">
                      <!-- member 1-->
                      <div class="team-item">
-                        <img src="img/team1.jpg" alt=""/>
+                        <img src="img/Images/founder1.png" alt=""/>
                         <div class="team-caption">
-                           <h5 class="text-light">Jane Doe</h5>
+                           <h5 class="text-light">Sandra Clemens</h5>
                            <p>Founder</p>
                         </div>
                      </div>
@@ -645,9 +647,9 @@
                   <div class="col-lg-12">
                      <!-- member 2-->
                      <div class="team-item">
-                        <img src="img/team2.jpg" alt=""/>
+                        <img src="img/Images/assist1.png" alt=""/>
                         <div class="team-caption">
-                           <h5 class="text-light">Mario Salles</h5>
+                           <h5 class="text-light">Florence</h5>
                            <p>Teacher</p>
                         </div>
                      </div>
@@ -657,52 +659,15 @@
                   <div class="col-lg-12">
                      <!-- member 3-->
                      <div class="team-item">
-                        <img src="img/team3.jpg" alt=""/>
+                        <img src="img/Images/assist2.png" alt=""/>
                         <div class="team-caption">
-                           <h5 class="text-light">Julia Stan</h5>
-                           <p>Teacher</p>
+                           <h5 class="text-light">Tina</h5>
+                           <p>Nurse</p>
                         </div>
                      </div>
                      <!-- /team-item-->
                   </div>
                   <!-- col-lg-12-->
-                  <div class="col-lg-12">
-                     <!-- member 3-->
-                     <div class="team-item">
-                        <img src="img/team4.jpg" alt=""/>
-                        <div class="team-caption">
-                           <h5 class="text-light">Mary John</h5>
-                           <p>Caretaker</p>
-                        </div>
-                     </div>
-                     <!-- /team-item-->
-                  </div>
-                  <!-- col-lg-12-->
-                  <div class="col-lg-12">
-                     <!-- member 3-->
-                     <div class="team-item">
-                        <img src="img/team5.jpg" alt=""/>
-                        <div class="team-caption">
-                           <h5 class="text-light">Marco Datella</h5>
-                           <p>Psychologist</p>
-                        </div>
-                     </div>
-                     <!-- /team-item-->
-                  </div>
-                  <!-- col-lg-12-->
-                  <div class="col-lg-12">
-                     <!-- member 3-->
-                     <div class="team-item">
-                        <img src="img/team6.jpg" alt=""/>
-                        <div class="team-caption">
-                           <h5 class="text-light">Juditt Lind</h5>
-                           <p>Expert</p>
-                        </div>
-                     </div>
-                     <!-- /team-item-->
-                  </div>
-                  <!-- col-lg-12-->
-               </div>
                <!--/owl-team -->	
             </div>
             <!--/container -->
@@ -1134,8 +1099,8 @@
                <div class="text-center col-md-12">
                   <ul class="nav nav-pills cat text-center" role="tablist" id="gallerytab">
                      <li class="active"><a href="#" data-toggle="tab" data-filter="*">All</a>
-                     <li><a href="#" data-toggle="tab" data-filter=".events">Events</a></li>
-                     <li><a href="#" data-toggle="tab" data-filter=".facilities">Our Facilities</a></li>
+<!--                     <li><a href="#" data-toggle="tab" data-filter=".events">Events</a></li>-->
+<!--                     <li><a href="#" data-toggle="tab" data-filter=".facilities">Our Facilities</a></li>-->
                   </ul>
                </div>
                <!-- Gallery -->
@@ -1146,9 +1111,9 @@
                         <div class="col-sm-6 col-md-6 col-lg-4 events">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery1.jpg" alt="">
+                                 <img class="img-responsive" src="img/Images/gallery1.png" alt="">
                                  <span class="overlay-mask"></span>
-                                 <a href="img/gallery1.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                 <a href="img/Images/gallery1.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                  <i class="fa fa-expand"></i></a>
                               </div>
                            </div>
@@ -1157,9 +1122,9 @@
                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery2.jpg" alt="">
+                                 <img class="img-responsive" src="img/Images/gallery2.png" alt="">
                                  <span class="overlay-mask"></span>
-                                 <a href="img/gallery2.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                 <a href="img/Images/gallery2.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                  <i class="fa fa-expand"></i></a>
                               </div>
                            </div>
@@ -1168,9 +1133,9 @@
                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery3.jpg" alt="">
+                                 <img class="img-responsive" src="img/Images/gallery3.png" alt="">
                                  <span class="overlay-mask"></span>
-                                 <a href="img/gallery3.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                 <a href="img/gallery3.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                  <i class="fa fa-expand"></i></a>
                               </div>
                            </div>
@@ -1179,97 +1144,9 @@
                         <div class="col-sm-6 col-md-6 col-lg-4 events">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery4.jpg" alt="">
+                                 <img class="img-responsive" src="img/Images/gallery4.png" alt="">
                                  <span class="overlay-mask"></span>
-                                 <a href="img/gallery4.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 5 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery5.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery5.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 6 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery6.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery6.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 7 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 events">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery7.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery7.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 8 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 events">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery8.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery8.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 9 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery9.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery9.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 10 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery10.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery10.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 11 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery11.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery11.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
-                                 <i class="fa fa-expand"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- Image 12 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
-                           <div class="portfolio-item">
-                              <div class="gallery-thumb">
-                                 <img class="img-responsive" src="img/gallery12.jpg" alt="">
-                                 <span class="overlay-mask"></span>
-                                 <a href="img/gallery12.jpg" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                 <a href="img/Images/gallery4.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                  <i class="fa fa-expand"></i></a>
                               </div>
                            </div>
@@ -1436,125 +1313,125 @@
             <img src="img/parallaxobject3.png" alt="">
          </div>
          <!-- Section Prices -->
-         <section id="prices" class="color-section">
+<!--         <section id="prices" class="color-section">-->
             <!-- svg triangle shape -->
-            <svg id="triangleShadow" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
-               <path class="trianglePath1" d="M0 0 L50 100 L100 0 Z" />
-            </svg>
-            <div class="container">
-               <div class="col-lg-8 col-lg-offset-2">
+<!--            <svg id="triangleShadow" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">-->
+<!--               <path class="trianglePath1" d="M0 0 L50 100 L100 0 Z" />-->
+<!--            </svg>-->
+<!--            <div class="container">-->
+<!--               <div class="col-lg-8 col-lg-offset-2">-->
                   <!-- Section heading -->
-                  <div class="section-heading">
-                     <h2>Our Prices</h2>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-md-12 text-center">
+<!--                  <div class="section-heading">-->
+<!--                     <h2>Our Prices</h2>-->
+<!--                  </div>-->
+<!--               </div>-->
+<!--               <div class="row">-->
+<!--                  <div class="col-md-12 text-center">-->
                      <!-- Price tables -->
-                     <div class="pricing pricing-palden">
-                        <div class="pricing-item col-lg-4 col-md-4 col-sm-12">
-                           <div class="pricing-deco">
-                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
-                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
-                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
-                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
-                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
-                              </svg>
-                              <h3 class="pricing-header">Infants & Toddlers</h3>
-                           </div>
+<!--                     <div class="pricing pricing-palden">-->
+<!--                        <div class="pricing-item col-lg-4 col-md-4 col-sm-12">-->
+<!--                           <div class="pricing-deco">-->
+<!--                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>-->
+<!--                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>-->
+<!--                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>-->
+<!--                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>-->
+<!--                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>-->
+<!--                              </svg>-->
+<!--                              <h3 class="pricing-header">Infants & Toddlers</h3>-->
+<!--                           </div>-->
                            <!-- List -->
-                           <ul class="pricing-feature-list">
-                              <li>
-                                 <h3 class="pricing-title">Weekly</h3>
-                                 <div class="pricing-price"><span class="pricing-currency">$</span>250
-                                       <span class="pricing-period">/ week (if paid in advance)</span>
-                                    </div>
-                              </li>
-                              <li>
-                                 <h3 class="pricing-title">Daily</h3>
-                                 <div class="pricing-price"><span class="pricing-currency">$</span>50
-                                       <span class="pricing-period">/ day (not pro rated)</span>
-                                    </div>
-                              </li>
-                           </ul>
+<!--                           <ul class="pricing-feature-list">-->
+<!--                              <li>-->
+<!--                                 <h3 class="pricing-title">Weekly</h3>-->
+<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>250-->
+<!--                                       <span class="pricing-period">/ week (if paid in advance)</span>-->
+<!--                                    </div>-->
+<!--                              </li>-->
+<!--                              <li>-->
+<!--                                 <h3 class="pricing-title">Daily</h3>-->
+<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>50-->
+<!--                                       <span class="pricing-period">/ day (not pro rated)</span>-->
+<!--                                    </div>-->
+<!--                              </li>-->
+<!--                           </ul>-->
 
                            <!-- Button-->
-                           <div class="page-scroll">
-                              <a class="btn" href="#contact">Contact us</a>
-                           </div>
+<!--                           <div class="page-scroll">-->
+<!--                              <a class="btn" href="#contact">Contact us</a>-->
+<!--                           </div>-->
                            <!--/page-scroll-->
-                        </div>
-                        <div class="pricing-item pricing-item-featured col-lg-4 col-md-4 col-sm-12">
-                           <div class="pricing-deco">
-                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
-                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
-                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
-                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
-                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
-                              </svg>
-                              <h3 class="pricing-header">Preschool Age</h3>
-                           </div>
+<!--                        </div>-->
+<!--                        <div class="pricing-item pricing-item-featured col-lg-4 col-md-4 col-sm-12">-->
+<!--                           <div class="pricing-deco">-->
+<!--                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>-->
+<!--                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>-->
+<!--                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>-->
+<!--                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>-->
+<!--                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>-->
+<!--                              </svg>-->
+<!--                              <h3 class="pricing-header">Preschool Age</h3>-->
+<!--                           </div>-->
                            <!-- List -->
-                           <ul class="pricing-feature-list">
-                              <li>
-                                 <h3 class="pricing-title">Weekly</h3>
-                                 <div class="pricing-price"><span class="pricing-currency">$</span>240
-                                    <span class="pricing-period">/ week (if paid in advance)</span>
-                                 </div>
-                              </li>
-                              <li>
-                                 <h3 class="pricing-title">Daily</h3>
-                                 <div class="pricing-price"><span class="pricing-currency">$</span>50
-                                    <span class="pricing-period">/ day (not pro rated)</span>
-                                 </div>
-                              </li>
-                           </ul>
+<!--                           <ul class="pricing-feature-list">-->
+<!--                              <li>-->
+<!--                                 <h3 class="pricing-title">Weekly</h3>-->
+<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>240-->
+<!--                                    <span class="pricing-period">/ week (if paid in advance)</span>-->
+<!--                                 </div>-->
+<!--                              </li>-->
+<!--                              <li>-->
+<!--                                 <h3 class="pricing-title">Daily</h3>-->
+<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>50-->
+<!--                                    <span class="pricing-period">/ day (not pro rated)</span>-->
+<!--                                 </div>-->
+<!--                              </li>-->
+<!--                           </ul>-->
                            <!-- Button-->
-                           <div class="page-scroll">
-                              <a class="btn" href="#contact">Contact us</a>
-                           </div>
+<!--                           <div class="page-scroll">-->
+<!--                              <a class="btn" href="#contact">Contact us</a>-->
+<!--                           </div>-->
                            <!--/page-scroll-->
-                        </div>
-                        <div class="pricing-item col-lg-4 col-md-4 col-sm-12">
-                           <div class="pricing-deco">
-                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
-                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
-                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
-                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
-                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
-                              </svg>
-                              <h3 class="pricing-header">School Age</h3>
-                           </div>
+<!--                        </div>-->
+<!--                        <div class="pricing-item col-lg-4 col-md-4 col-sm-12">-->
+<!--                           <div class="pricing-deco">-->
+<!--                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>-->
+<!--                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>-->
+<!--                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>-->
+<!--                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>-->
+<!--                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>-->
+<!--                              </svg>-->
+<!--                              <h3 class="pricing-header">School Age</h3>-->
+<!--                           </div>-->
                            <!-- List -->
-                           <ul class="pricing-feature-list">
-                              <li>
-                                 <h3 class="pricing-title">Weekly</h3>
-                                 <div class="pricing-price"><span class="pricing-currency">$</span>230
-                                    <span class="pricing-period">/ week (if paid in advance)</span>
-                                 </div>
-                              </li>
-                              <li>
-                                 <h3 class="pricing-title">Daily</h3>
-                                 <div class="pricing-price"><span class="pricing-currency">$</span>50
-                                    <span class="pricing-period">/ day (not pro rated)</span>
-                                 </div>
-                              </li>
-                           </ul>
+<!--                           <ul class="pricing-feature-list">-->
+<!--                              <li>-->
+<!--                                 <h3 class="pricing-title">Weekly</h3>-->
+<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>230-->
+<!--                                    <span class="pricing-period">/ week (if paid in advance)</span>-->
+<!--                                 </div>-->
+<!--                              </li>-->
+<!--                              <li>-->
+<!--                                 <h3 class="pricing-title">Daily</h3>-->
+<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>50-->
+<!--                                    <span class="pricing-period">/ day (not pro rated)</span>-->
+<!--                                 </div>-->
+<!--                              </li>-->
+<!--                           </ul>-->
                            <!-- Button-->
-                           <div class="page-scroll">
-                              <a class="btn" href="#contact">Contact us</a>
-                           </div>
+<!--                           <div class="page-scroll">-->
+<!--                              <a class="btn" href="#contact">Contact us</a>-->
+<!--                           </div>-->
                            <!--/page-scroll-->
-                        </div>
+<!--                        </div>-->
                         <!--/pricing-item-->
-                     </div>
+<!--                     </div>-->
                      <!-- /col-sm-12-->
-                  </div>
-                  <!-- /row -->			  
-               </div>
+<!--                  </div>-->
+                  <!-- /row -->
+<!--               </div>-->
                <!-- /container-->
-            </div>
-         </section>
+<!--            </div>-->
+<!--         </section>-->
          <!-- /Section ends -->
          <!-- Section Call to Action -->
          <section id="call-to-action" class="small-section">
@@ -1595,8 +1472,8 @@
                   <h4>Information</h4>
                   <!-- contact info -->			   
                   <div class="contact-info">
-                     <p><i class="flaticon-back"></i><a href="mailto:youremailaddress">daycare@site.com</a></p>
-                     <p><i class="fa fa-phone margin-icon"></i>Call us (951)640- 7950,  (657) 445-8134</p>
+                     <p><i class="flaticon-back"></i><a href="mailto:ddclems22@gmail.com">ddclems22@gmail.com</a></p>
+                     <p><i class="fa fa-phone margin-icon"></i>Call us (714)9567236, (951)640- 7950</p>
                   </div>
                   <!-- address info -->
                   <p>We are located at 2211 East vermont Ave. Anaheim, CA 92806.</p>
@@ -1606,16 +1483,20 @@
                <!-- Contact Form -->
                <div class="col-lg-7 col-lg-offset-1">
                   <h4>Write us</h4>
-                  <!-- Form Starts -->
-                  <div id="contact_form">
-                     <div class="form-group">
-                        <input type="text" name="name" class="form-control input-field" placeholder="Name" required="">                    
-                        <input type="email" name="email" class="form-control input-field" placeholder="Email ID" required="">           
-                        <input type="text" name="subject" class="form-control input-field" placeholder="Subject" required="">                     
-                     </div>
-                     <textarea name="message" id="message" class="textarea-field form-control" rows="4" placeholder="Enter your message" required=""></textarea>
-                     <button type="submit" id="submit_btn" value="Submit" class="btn center-block">Send message</button>
-                  </div>
+<!--                   Form Starts -->
+                   <div id="contact_form">
+                       <form action="processors.php" method="POST" id="contact_info">
+                           <div class="form-group">
+                               <input type="text" name="name" class="form-control input-field" placeholder="Name" required="">
+                               <input type="email" name="email" class="form-control input-field" placeholder="Email Address" required="">
+                               <input type="text" name="subject" class="form-control input-field" placeholder="Subject" required="">
+                           </div>
+                           <textarea name="message" id="message" class="textarea-field form-control" rows="4" placeholder="Enter your message" required=""></textarea>
+                           <input type="hidden" name="processor" disabled  class="form-control input-field" value="contact">
+                           <button type="submit" id="submit_btn" class="btn center-block">Send message</button>
+                       </form>
+                       <div class="feedbackmsg"></div>
+                   </div>
                   <!-- Contact results -->
                   <div id="contact_results"></div>
                </div>
@@ -1659,20 +1540,20 @@
                   <h6 class="text-light">Sign our Newsletter</h6>
                   <p>We will send updates once a week.</p>
                   <!-- Form -->				
-                  <div id="mc_embed_signup">
-                     <form action="http://yourlist.us12.list-manage.com/subscribe/post?u=04e646927a196552aaee78a7b&amp;id=111" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                  <div id="mc_embed_signup1">
+                      <form action="processors.php" method="POST" id="subscribe_info_form">
                         <div id="mc_embed_signup_scroll">
                            <div class="mc-field-group">
-                              <div class="input-group">
-                                 <input class="form-control input-lg required email" type="email" value="" name="EMAIL" placeholder="Your email here" id="mce-EMAIL">
+                               <div class="input-group">
+                                 <input class="form-control input-lg required email" type="email" name="emailad" placeholder="Your email here">
                                  <span class="input-group-btn">
-                                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">
+                                 <input type="hidden" disabled name="subscribe"  value="subscribe">
+                                    <button type="submit" id="mc-embedded-subscribe1" class="btn">Subscribe</button>
                                  </span>
                               </div>
                               <!-- Subscription results -->
                               <div id="mce-responses" class="mailchimp">
-                                 <div class="alert alert-danger response" id="mce-error-response"></div>
-                                 <div class="alert alert-success response" id="mce-success-response"></div>
+                                 <div class="response" id="mce-response"></div>
                               </div>
                            </div>
                            <!-- /mc-fiel-group -->									
@@ -1736,11 +1617,11 @@
       <!-- Isotope -->
       <script src="js/jquery.isotope.js"></script>
       <!--Mail Chimp validator -->
-      <script src='js/mc-validate.js'></script>
+<!--      <script src='js/mc-validate.js'></script>-->
       <!--Other Plugins -->
       <script src="js/plugins.js"></script>
 	  <!-- Contact -->
-      <script src="js/contact.js"></script>
+<!--      <script src="js/contact.js"></script>-->
       <!-- Prefix free CSS -->
       <script src="js/prefixfree.js"></script>
       <!-- GreenSock -->
@@ -1757,3 +1638,4 @@
 
 <!-- Mirrored from ingridkuhn.com/themes/alphabet/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 05 Feb 2022 04:28:36 GMT -->
 </html>
+

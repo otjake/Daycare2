@@ -163,7 +163,7 @@ jQuery(function ($) {
         //Team Carousel	
 		
         $("#owl-team").owlCarousel({
-            items: 4,
+            items: 3,
             dots: true,
             loop: true,
             margin: 20,
@@ -206,7 +206,71 @@ jQuery(function ($) {
 		
 			//Navbar toggle
 			$('.navbar .collapse').collapse('hide');
-	})		 
-	 	
-   
+	})
+
+    $(document).ready(function () {
+        $("#contact_info").submit(function (event) {
+            var formData = {
+                'name'		: $('input[name=name]').val(),
+                'email'	: $('input[name=email]').val(),
+                'subject'		: $('input[name=subject]').val(),
+                'processor'		: $('input[name=processor]').val(),
+                'message'			: $('textarea[name=message]').val()
+            };
+            $('#submit_btn').prop("disabled",true);
+            $('#submit_btn').text('Processing');
+
+            console.log("Data forms",formData)
+
+            $.ajax({
+                type: "POST",
+                url: "processors.php",
+                data: formData,
+                dataType: "json",
+                encode: true,
+            }).done(function (data) {
+                $('.feedbackmsg').html(data.message);
+                $('#submit_btn').text('Send Message');
+                setTimeout(function(){
+                    $('.feedbackmsg').html('');
+                    $('#submit_btn').prop("disabled",false);
+
+                }, 5000);
+
+            });
+
+            event.preventDefault();
+        });
+
+
+        $("#subscribe_info_form").submit(function (event) {
+            var formData = {
+                'email'	: $('input[name=emailad]').val(),
+                'subscribe'		: $('input[name=subscribe]').val(),
+            };
+            $('#mc-embedded-subscribe1').prop("disabled",true);
+            $('#mc-embedded-subscribe1').text('Processing');
+
+            $.ajax({
+                type: "POST",
+                url: "processors.php",
+                data: formData,
+                dataType: "json",
+                encode: true,
+            }).done(function (data) {
+                console.log("feedback",data.message)
+                $('#mce-response').html(data.message);
+                $('#mc-embedded-subscribe1').text('Subscribe');
+                setTimeout(function(){
+                    $('#mce-response').html('');
+                    $('#mc-embedded-subscribe1').prop("disabled",false);
+
+                }, 5000);
+            });
+
+            event.preventDefault();
+        });
+    });
+
+
 });
