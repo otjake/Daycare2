@@ -1504,7 +1504,7 @@
                   <!-- Map -->
                    <div id="map-canvas1">
                        <iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=300&amp;height=300&amp;hl=en&amp;q=2211%20East%20vermont%20Ave.%20Anaheim,%20CA%2092806.%20+()&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='https://www.symptoma.it/'>Symptoma®</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=6e8ecddb35b4b3d49964d6e4ed37fa9c9b021cd3'></script>
-
+                   </div>
                </div>
                <!-- Contact Form -->
                <div class="col-lg-7 col-lg-offset-1">
