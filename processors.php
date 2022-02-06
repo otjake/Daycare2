@@ -1,5 +1,7 @@
 <?php
 
+use PHPMailer\PHPMailer\PHPMailer;
+
 $errors = [];
 $data = [];
 
@@ -20,11 +22,12 @@ if (!empty($_POST['processor']) && ($_POST['processor'] == 'contact') ) {
         $errors['message'] = 'message is required.';
     }
 
-
-    require 'mail/PHPMailerAutoload.php';
+    require ('PHPMailer/src/Exception.php');
+    require ('PHPMailer/src/PHPMailer.php');
+    require ('PHPMailer/src/SMTP.php');
     date_default_timezone_set('UTC');
     //Admin email configuration
-    $admin_mail = new PHPMailer;
+    $admin_mail = new PHPMailer(true);
 
     //sumbission data
     $ipaddress = $_SERVER['REMOTE_ADDR'];
@@ -47,11 +50,11 @@ if (!empty($_POST['processor']) && ($_POST['processor'] == 'contact') ) {
     $admin_mail->Port = 2525;                                    // TCP port to connect to
     try {
         $admin_mail->setFrom($emailfrom);
-    } catch (phpmailerException $e) {
+    } catch (Exception $e) {
     }
     $admin_mail->addAddress('jake@gmail.com');     // Add a recipient
     // $admin_mail->addAddress('ellen@example.com');               // Name is optional
-    $admin_mail->addCC('');
+//    $admin_mail->addCC('');
 
     $admin_mail->isHTML(true); // Set email format to HTML
 
@@ -111,10 +114,12 @@ if (!empty($_POST['subscribe']) && ($_POST['subscribe'] == 'subscribe') ) {
         $errors['email'] = 'Email is required.';
     }
 
-    require 'mail/PHPMailerAutoload.php';
+    require ('PHPMailer/src/Exception.php');
+    require ('PHPMailer/src/PHPMailer.php');
+    require ('PHPMailer/src/SMTP.php');
     date_default_timezone_set('UTC');
     //Admin email configuration
-    $admin_mail = new PHPMailer;
+    $admin_mail = new PHPMailer(true);
 
     //sumbission data
     $ipaddress = $_SERVER['REMOTE_ADDR'];
@@ -141,7 +146,7 @@ if (!empty($_POST['subscribe']) && ($_POST['subscribe'] == 'subscribe') ) {
     }
     $admin_mail->addAddress('jake@gmail.com');     // Add a recipient
     // $admin_mail->addAddress('ellen@example.com');               // Name is optional
-    $admin_mail->addCC('');
+//    $admin_mail->addCC('');
 
     $admin_mail->isHTML(true); // Set email format to HTML
 
