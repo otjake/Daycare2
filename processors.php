@@ -133,8 +133,8 @@ if (!empty($_POST['subscribe']) && ($_POST['subscribe'] == 'subscribe') ) {
     $admin_mail->SMTPAuth = true;                               // Enable SMTP authentication
     $admin_mail->Username = '558dd39d637677';                 // SMTP username
     $admin_mail->Password = '2d8bc3a75f7f8d';                           // SMTP password
-    $admin_mail->SMTPSecure = 'TLS';                            // Enable TLS encryption, `ssl` also accepted
-    $admin_mail->Port = 587;                                    // TCP port to connect to
+    $admin_mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+    $admin_mail->Port = 2525;                                    // TCP port to connect to
     try {
         $admin_mail->setFrom($emailfrom);
     } catch (phpmailerException $e) {
