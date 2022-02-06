@@ -1135,7 +1135,7 @@
                               <div class="gallery-thumb">
                                  <img class="img-responsive" src="img/Images/gallery3.png" alt="">
                                  <span class="overlay-mask"></span>
-                                 <a href="img/gallery3.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                 <a href="img/Images/gallery3.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                  <i class="fa fa-expand"></i></a>
                               </div>
                            </div>
@@ -1151,6 +1151,30 @@
                               </div>
                            </div>
                         </div>
+
+                         <!-- Image 5 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/gallery5.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/gallery5.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 6 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/gallery6.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/gallery6.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
                      </div>
                      <!-- /lightbox-->
                   </div>
@@ -1478,7 +1502,15 @@
                   <!-- address info -->
                   <p>We are located at 2211 East vermont Ave. Anaheim, CA 92806.</p>
                   <!-- Map -->
-                   <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=2211%20East%20vermont%20Ave.%20Anaheim,%20CA%2092806&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br><style>.mapouter{position:relative;height:300px;width:400px;}</style><a href="https://www.embedgooglemap.net">create google maps for website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:417px;width:440px;}</style></div></div>
+                   <div class="mapouter">
+                       <div class="gmap_canvas">
+                           <iframe width="400" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=2211%20East%20vermont%20Ave.%20Anaheim,%20CA%2092806&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                           <a href="https://putlocker-is.org"></a>
+                           <br>
+                           <style>.mapouter{position:relative;height:300px;width:400px;}</style>
+                           <style>.gmap_canvas {overflow:hidden;background:none!important;height:417px;width:440px;}</style>
+                       </div>
+                   </div>
 
                </div>
                <!-- Contact Form -->
