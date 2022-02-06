@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
       <meta charset="utf-8">
+    <meta name="google-site-verification" content="IZ4U9JE4om5nW4HYTD6bXoUov0nqtrQdyARHjLnKbKQ" />
       <!--[if IE]>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <![endif]-->
