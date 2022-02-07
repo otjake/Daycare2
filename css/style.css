@@ -366,9 +366,10 @@ html{
  #callout .container{
      position:relative;
      overflow:hidden;
-     background-image: url(../img/kids.png);
+     background-image: url(../img/Images/kids1.png);
      background-position:bottom right;
      background-repeat:no-repeat;
+     /*#59b2dc*/
 }
 /* CSS Sun */
  .sun {
@@ -713,7 +714,7 @@ html{
 /* =========================== --- About Us ============================ */
 /* Slider */
  #owl-about{
-    background-image: url(../img/kidsbg.png);
+    background-image: url(../img/Images/kidsbg.png);
 }
  #owl-about img{
     border-radius:50%;
@@ -767,7 +768,7 @@ html{
 }
 /*=========================== Team ============================ */
  #team {
-     background-image: url(../img/bggrass.png);
+     background-image: url(../img/Images/bggrass.png);
      background-position:bottom center;
      background-repeat:repeat-x;
 }
@@ -811,7 +812,7 @@ html{
 }
 /* =========================== --- Activities ============================ */
  #activities{
-     background-image: url(../img/bgdots.png),url(../img/bgdots2.png);
+     background-image: url(../img/Images/bgdots.png),url(../img/Images/bgdots2.png);
      background-position:center left,center right;
      background-repeat:no-repeat;
 }
@@ -930,7 +931,7 @@ html{
 /*=========================== Latest Blog Posts & Blog Pages ============================ */
 /*Latest Blog posts */
  #latestblog{
-     background-image: url(../img/bg1.png);
+     background-image: url(../img/Images/bg1.png);
      background-position:center;
      background-repeat:repeat-x;
 }
@@ -1012,7 +1013,7 @@ html{
 }
 /* blog jumbotron and well */
  .blog.jumbotron {
-     background : url(../img/blogheader.jpg) no-repeat;
+     background : url(../img/Images/blogheader.jpg) no-repeat;
      background-size:cover;
      background-position :top center;
      padding:6%;
@@ -1176,7 +1177,7 @@ html{
 }
 /*=========================== Prices ============================ */
  #prices {
-     background-image: url(../img/bgcity.png);
+     background-image: url(../img/Images/bgcity.png);
      background-position:bottom center;
      background-repeat:repeat-x;
 }
@@ -1277,7 +1278,7 @@ html{
 }
 /*=========================== Call to Action ============================ */
  #call-to-action{
-     background-image: url(../img/calltoactionbg.jpg);
+     background-image: url(../img/Images/calltoactionbg.png);
      background-size:cover;
      background-position:center center;
      background-attachment: fixed;
@@ -1508,7 +1509,7 @@ html{
  hr {
      max-width:100px;
      height:5px;
-     background:url(../img/hr.png) no-repeat top center;
+     background:url(../img/Images/hr.png) no-repeat top center;
      border:none !important;
 }
 /* Sections heading */
@@ -1632,7 +1633,7 @@ html{
  .paper_block{
      padding:20px;
      border-radius:20px;
-     background: url(../img/lined_paper.png) repeat top center;
+     background: url(../img/Images/lined_paper.png) repeat top center;
      border: 2px dashed #cecece;
 }
 /* Blocks + Slider navigation*/

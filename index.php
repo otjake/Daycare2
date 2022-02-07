@@ -34,20 +34,8 @@
       <!-- Favicons-->
       <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-touch-icon-72x72.html">
       <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-touch-icon-114x114.html">
-      <link rel="shortcut icon" href="img/dd_clem.png" type="image/x-icon">
-      <!-- Switcher Only -->
-<!--      <link rel="stylesheet" id="switcher-css" type="text/css" href="switcher/css/switcher.css" media="all" />-->
-      <!--Alternate CSS -->
-<!--      <link rel="alternate stylesheet" type="text/css" href="styles/funtime.css" title="funtime" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="styles/playground.css" title="playground" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="styles/games.css" title="games" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="styles/childhood.css" title="childhood" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="styles/school.css" title="school" media="all" />-->
-<!--	  	   <link rel="alternate stylesheet" type="text/css" href="styles/nanny.css" title="nanny" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="styles/toddler.css" title="toddler" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="switcher/css/boxed.css" title="boxed" media="all" />-->
-<!--      <link rel="alternate stylesheet" type="text/css" href="switcher/css/full.css" title="full" media="all" />-->
-   </head>
+      <link rel="shortcut icon" href="img/Images/dd_clem.png" type="image/x-icon">
+</head>
    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
       <!-- Page width 'Boxed' of 'Full' -->
       <div class="full">
@@ -61,42 +49,6 @@
                <span></span>
             </div>
          </div>
-         <!-- Start Switcher -->
-<!--         <div class="demo_changer">-->
-<!--            <div class="demo-icon">-->
-<!--               <i class="fa fa-cog fa-2x"></i>-->
-<!--            </div>-->
-            <!-- end opener icon -->
-<!--            <div class="form_holder">-->
-<!--               <div class="row">-->
-<!--                  <div class="col-md-12 text-center">-->
-<!--                     <div class="predefined_styles">-->
-<!--                        <h4>Choose a Color Skin</h4>-->
-<!--                        &lt;!&ndash; MODULE #3 &ndash;&gt;-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/playground" class="styleswitch"><img src="switcher/images/icons/playground.png" class="img-circle" alt=""></a>-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/games"  class="styleswitch"><img src="switcher/images/icons/games.png" class="img-circle" alt=""></a>-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/funtime" class="styleswitch"><img src="switcher/images/icons/funtime.png" class="img-circle" alt=""></a>-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/school" class="styleswitch"><img src="switcher/images/icons/school.png" class="img-circle" alt=""></a>-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/childhood" class="styleswitch"><img src="switcher/images/icons/childhood.png" class="img-circle" alt=""></a>-->
-<!--						 <a href="https://www.ingridkuhn.com/themes/alphabet/nanny" class="styleswitch"><img src="switcher/images/icons/nanny.png" class="img-circle" alt=""></a>-->
-<!--						  <a href="https://www.ingridkuhn.com/themes/alphabet/toddler" class="styleswitch"><img src="switcher/images/icons/toddler.png" class="img-circle" alt=""></a>-->
-<!--                        <h4>Width</h4>-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/boxed" class="btn styleswitch">Boxed</a>-->
-<!--                        <a href="https://www.ingridkuhn.com/themes/alphabet/full" class="btn styleswitch">Full Width</a>-->
-<!--                        <h4>Header</h4>-->
-<!--                        <a href="index-2.html" class="btn">Layerslider</a>-->
-<!--                        <a href="index_video.html" class="btn">Video</a>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; end predefined_styles &ndash;&gt;-->
-<!--                  </div>-->
-<!--                  &lt;!&ndash; end col &ndash;&gt;-->
-<!--               </div>-->
-<!--               &lt;!&ndash; end row &ndash;&gt;-->
-<!--            </div>-->
-            <!-- end form_holder -->
-<!--         </div>-->
-         <!-- end demo_changer -->
-         <!-- End Switcher -->	  
          <!-- Navbar -->
          <nav class="navbar navbar-custom navbar-fixed-top">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -130,7 +82,7 @@
 <!--                           <li class="active"><a href="#latestblog">Latest Posts</a></li>-->
 <!--                        </ul>-->
 <!--                     </li>-->
-                     <li><a href="#prices">Prices</a></li>
+<!--                     <li><a href="#prices">Prices</a></li>-->
                      <li><a href="#contact">Contact</a></li>
                      <!-- Dropdown -->
 <!--                     <li class="dropdown">-->
@@ -153,12 +105,12 @@
             <!-- Slide 1 -->
             <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
                <!-- Background image -->
-               <img src="img/Images/slide1.jpg" class="ls-bg" alt="Slide background"/>
+               <img src="img/Images/slide4-1.png" class="ls-bg" alt="Slide background"/>
                <!-- Parallax Image -->
                <img src="img/Images/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
                <!-- Text -->
                <div class="ls-l header-text container" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-                  <h1>Welcome to DD CLEM</h1>
+                  <h1>Welcome to DD'CLEMS</h1>
                   <p class="subtitle hidden-xs"> Best family childcare program, around you </p>
                   <!-- Button -->
                   <div class="page-scroll hidden-xs">
@@ -168,35 +120,16 @@
                <!-- Parallax Image -->
                <img src="img/Images/flower.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
             </div>
-<!--            &lt;!&ndash; Slide 2 &ndash;&gt;-->
-<!--            <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">-->
-<!--               &lt;!&ndash; Background image &ndash;&gt;-->
-<!--               <img src="img/slide2.jpg" class="ls-bg"  alt="Slide background"/>-->
-<!--               &lt;!&ndash; Parallax Image &ndash;&gt;-->
-<!--               <img src="img/bee.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">-->
-<!--               &lt;!&ndash; Text &ndash;&gt;-->
-<!--               <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">-->
-<!--                  <h1>Quality daycare</h1>-->
-<!--                  <p class="subtitle hidden-xs"> Alphabet is a Super Fun Daycare / Children HTML Theme including many Elements </p>-->
-<!--                  &lt;!&ndash; Button &ndash;&gt;-->
-<!--                  <div class="page-scroll hidden-xs">-->
-<!--                     <a class="btn" href="#contact">Contact us</a>-->
-<!--                  </div>-->
-<!--               </div>-->
-<!--               &lt;!&ndash; Parallax Image &ndash;&gt;-->
-<!--               <img src="img/star.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">-->
-<!--            </div>-->
-            <!-- Slide 3 -->
+
             <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
                <!-- Background image -->
-               <img src="img/Images/slide3.jpg" class="ls-bg" alt="Slide background"/>
+               <img src="img/Images/slide3-1.png" class="ls-bg" alt="Slide background"/>
                <!-- Parallax Image -->
                <img src="img/Images/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
                <!-- Text -->
                <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                   <h1>Everybody is welcome</h1>
-                  <p class="subtitle hidden-xs"> Enrollment is open to all children of any race, of age’s zero to nine years old of age, of the
-                     community </p>
+                  <p class="subtitle hidden-xs"> Enrollment is open to all children of any race, age’s zero to nine years old of age </p>
                   <!-- Button -->
                   <div class="page-scroll hidden-xs">
                      <a class="btn" href="#contact">Contact us</a>
@@ -208,7 +141,7 @@
             <!-- Slide 4 -->
             <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
                <!-- Background image -->
-               <img src="img/Images/slide4.jpg" class="ls-bg" alt="Slide background"/>
+               <img src="img/Images/slide5-1.png" class="ls-bg" alt="Slide background"/>
                <!-- Parallax Image -->
                <img src="img/Images/bee.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
                <!-- Text -->
@@ -300,7 +233,7 @@
                   <!-- /col-sm-12-->
                   <div class="col-md-12 col-lg-5">
                      <!-- Image -->
-                     <img src="img/Images/services.png" alt="" class="img-responsive center-block">
+                     <img src="img/Images/services-1.png" alt="" class="img-responsive center-block">
                   </div>
                   <!-- /col-md-12-->
                </div>
@@ -309,7 +242,7 @@
                   <!-- item 1-->
                   <div class="col-md-4 col-sm-12">
                      <div class="service float">
-                        <img src="img/Images/infant_toddler1.png" alt="" class="img-circle center-block img-responsive">
+                        <img src="img/Images/gallery1.png" alt="" class="img-circle center-block img-responsive">
                         <h4>Infants & Toddlers
                         </h4>
                         <p>
@@ -321,7 +254,7 @@
                   <!-- item 2-->
                   <div class="col-md-4 col-sm-12">
                      <div class="service float">
-                        <img src="img/Images/service3.jpg" alt="" class="img-circle center-block img-responsive">
+                        <img src="img/Images/service3.png" alt="" class="img-circle center-block img-responsive">
                         <h4>Pre School</h4>
                         <p>
                            Angels that are potty trained or getting ready for enrollment in to first grade.
@@ -333,7 +266,7 @@
                   <!-- item 3-->
                   <div class="col-md-4 col-sm-12 res-margin">
                      <div class="service float">
-                        <img src="img/Images/schoolage3.jpg" alt="" class="img-circle center-block  img-responsive">
+                        <img src="img/Images/schoolage3.png" alt="" class="img-circle center-block  img-responsive">
                         <h4>School  Age</h4>
                         <p>
                            Runners and walkers already enrolled in first grade and above.
@@ -440,13 +373,13 @@
                      <!-- Carousel -->
                      <div id="owl-about" class="owl-carousel">
                         <div class="item">
-                           <img class="img-responsive" src="img/about1.jpg" alt="">
+                           <img class="img-responsive" src="img/Images/about1.png" alt="">
                         </div>
+<!--                        <div class="item">-->
+<!--                           <img class="img-responsive" src="img/Images/about2.jpg" alt="">-->
+<!--                        </div>-->
                         <div class="item">
-                           <img class="img-responsive" src="img/about2.jpg" alt="">
-                        </div>
-                        <div class="item">
-                           <img class="img-responsive" src="img/about3.jpg" alt="">
+                           <img class="img-responsive" src="img/Images/schoolage3.png" alt="">
                         </div>
                      </div>
                   </div>
@@ -523,7 +456,7 @@
                         <i class="flaticon-person-1"></i>
                         <div class="media-body">
                            <h5 class="media-heading">Infant Care</h5>
-                           <p>This is the core of our service, training children in the right way, so as to achieve the success.</p>
+                           <p>This is the core of our service, training children in the right way, so as to achieve success on their next path.</p>
                         </div>
                      </div>
                      <!-- item5 -->
@@ -600,7 +533,7 @@
             data-100="transform:translatey(40%);"
             data-center-center="transform:translatey(-180%);">
             <!-- Image -->
-            <img src="img/parallaxobject1.png" alt="">
+            <img src="img/Images/parallaxobject1.png" alt="">
          </div>
          <!-- Section Team -->
          <section id="team" class="color-section">
@@ -619,13 +552,13 @@
                <div class="row team">
                   <div class="col-lg-5 col-md-5 res-margin">
                      <!-- Intro image -->
-                     <img src="img/teammain.jpg" class="center-block img-responsive img-curved" alt=""/>
+                     <img src="img/Images/staff1.png" class="center-block img-responsive img-curved" alt=""/>
                   </div>
                   <div class="col-lg-7 col-md-7">
                      <h3>Meet our Qualified Staff</h3>
                      <p>
                          Our Director,Mrs Sandra Clemens, has 20 years experience in childcare,
-                         and is certified in both early childhood education, and the Montessori method,
+                         and is certified in both early childhood education,
                          And like all our staff she is trained in first Aid and CPR ,
                          some having more than 5 years experience in child care development and well versed in child care development.
                      </p>
@@ -697,7 +630,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/activity1.jpg" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/activity1-1.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
@@ -760,7 +693,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/activity2.jpg" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/activity2-1.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
@@ -829,7 +762,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/lunch2.png" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/activity3-1.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
@@ -893,7 +826,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/nap2.png" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/gallery3.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
@@ -962,7 +895,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/centers.png" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/gallery4.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
@@ -1017,7 +950,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/activity5.jpg" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/gallery5.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
@@ -1083,7 +1016,7 @@
             data-100="transform:translatey(0%);"
             data-center-center="transform:translatey(-180%);">
             <!-- Image -->
-            <img src="img/parallaxobject2.png" alt="">
+            <img src="img/Images/parallaxobject2.png" alt="">
          </div>
          <!-- Section Gallery -->
          <section id="gallery" class="color-section">
@@ -1100,8 +1033,8 @@
                <div class="text-center col-md-12">
                   <ul class="nav nav-pills cat text-center" role="tablist" id="gallerytab">
                      <li class="active"><a href="#" data-toggle="tab" data-filter="*">All</a>
-<!--                     <li><a href="#" data-toggle="tab" data-filter=".events">Events</a></li>-->
-<!--                     <li><a href="#" data-toggle="tab" data-filter=".facilities">Our Facilities</a></li>-->
+                     <li><a href="#" data-toggle="tab" data-filter=".events">Events</a></li>
+                     <li><a href="#" data-toggle="tab" data-filter=".facilities">Facility</a></li>
                   </ul>
                </div>
                <!-- Gallery -->
@@ -1109,7 +1042,7 @@
                   <div class="col-md-12">
                      <div id="lightbox">
                         <!-- Image 1 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 events">
+                        <div class="col-sm-6 col-md-6 col-lg-4">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
                                  <img class="img-responsive" src="img/Images/gallery1.png" alt="">
@@ -1120,7 +1053,7 @@
                            </div>
                         </div>
                         <!-- Image 2 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                        <div class="col-sm-6 col-md-6 col-lg-4">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
                                  <img class="img-responsive" src="img/Images/gallery2.png" alt="">
@@ -1131,7 +1064,7 @@
                            </div>
                         </div>
                         <!-- Image 3 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                        <div class="col-sm-6 col-md-6 col-lg-4">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
                                  <img class="img-responsive" src="img/Images/gallery3.png" alt="">
@@ -1142,7 +1075,7 @@
                            </div>
                         </div>
                         <!-- Image 4 -->
-                        <div class="col-sm-6 col-md-6 col-lg-4 events">
+                        <div class="col-sm-6 col-md-6 col-lg-4">
                            <div class="portfolio-item">
                               <div class="gallery-thumb">
                                  <img class="img-responsive" src="img/Images/gallery4.png" alt="">
@@ -1154,7 +1087,7 @@
                         </div>
 
                          <!-- Image 5 -->
-                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                         <div class="col-sm-6 col-md-6 col-lg-4">
                              <div class="portfolio-item">
                                  <div class="gallery-thumb">
                                      <img class="img-responsive" src="img/Images/gallery5.png" alt="">
@@ -1166,12 +1099,83 @@
                          </div>
 
                          <!-- Image 6 -->
-                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                         <div class="col-sm-6 col-md-6 col-lg-4">
                              <div class="portfolio-item">
                                  <div class="gallery-thumb">
                                      <img class="img-responsive" src="img/Images/gallery6.png" alt="">
                                      <span class="overlay-mask"></span>
                                      <a href="img/Images/gallery6.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+                         <!-- Image 7 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/activity3-1.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/activity3-1.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 8 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/facility8.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/activity3-1.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 9 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 events">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/staff1.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/activity3-1.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 10 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 events">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/about1.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/activity3-1.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 10 -->
+                         <div class="col-sm-6 col-md-6 col-lg-4 all">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/all1.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/all1.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 11-->
+                         <div class="col-sm-6 col-md-6 col-lg-4 events">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/service3.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/service3.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                          <i class="fa fa-expand"></i></a>
                                  </div>
                              </div>
@@ -1185,280 +1189,15 @@
             </div>
             <!-- /container -->
          </section>
-         <!-- Section ends -->
-         <!-- Section Latest Blog -->
-<!--         <section id="latestblog">-->
-<!--            <div class="container">-->
-<!--               &lt;!&ndash; Section Heading &ndash;&gt;-->
-<!--               <div class="section-heading">-->
-<!--                  <h2>Our Blog</h2>-->
-<!--               </div>-->
-<!--               &lt;!&ndash; Carousel &ndash;&gt;-->
-<!--               <div class="row color_block">-->
-<!--                  <div id="owl-blog" class="owl-carousel">-->
-<!--                     &lt;!&ndash; Blog item 1 &ndash;&gt;-->
-<!--                     <div class="blog-preview col-md-12">-->
-<!--                        &lt;!&ndash; Blog image &ndash;&gt;-->
-<!--                        <img src="img/blogprev1.jpg" alt="" />-->
-<!--                        <div class="latest-caption text-center">-->
-<!--                           <a href="blog-post.html">-->
-<!--                              <h4>Mother's Day</h4>-->
-<!--                           </a>-->
-<!--                           &lt;!&ndash; Post Info &ndash;&gt;-->
-<!--                           <div class="post-info">-->
-<!--                              <p><i class="fa fa-clock-o"></i>Aug 24, 2015 at 9:00 PM</p>-->
-<!--                              <p><i class="fa fa-user"></i>by <a href="#">Mary Jane</a></p>-->
-<!--                              &lt;!&ndash; Post Comments &ndash;&gt;-->
-<!--                              <p><i class="fa fa-comment"></i><a href="#">81 Comments</a></p>-->
-<!--                           </div>-->
-<!--                           <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit. Lorem isuem amorem semprem Ratione, voluptatem lorem ipsuet alpacas dolorem animi nisi autem...</p>-->
-<!--                           &lt;!&ndash; Button&ndash;&gt;-->
-<!--                           <a class="btn" href="blog-post.html">Read More</a>-->
-<!--                        </div>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; /blog-preview &ndash;&gt;-->
-<!--                     &lt;!&ndash; Blog item 2 &ndash;&gt;-->
-<!--                     <div class="blog-preview col-md-12">-->
-<!--                        &lt;!&ndash; Blog image &ndash;&gt;-->
-<!--                        <img src="img/blogprev2.jpg" alt="" />-->
-<!--                        <div class="latest-caption text-center">-->
-<!--                           <a href="blog-post.html">-->
-<!--                              <h4>Activity Calendar</h4>-->
-<!--                           </a>-->
-<!--                           &lt;!&ndash; Post Info &ndash;&gt;-->
-<!--                           <div class="post-info">-->
-<!--                              <p><i class="fa fa-clock-o"></i>Aug 24, 2015 at 9:00 PM</p>-->
-<!--                              <p><i class="fa fa-user"></i>by <a href="#">Mary Jane</a></p>-->
-<!--                              &lt;!&ndash; Post Comments &ndash;&gt;-->
-<!--                              <p><i class="fa fa-comment"></i><a href="#">81 Comments</a></p>-->
-<!--                           </div>-->
-<!--                           <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit. Lorem isuem amorem semprem Ratione, voluptatem lorem ipsuet alpacas dolorem animi nisi autem...</p>-->
-<!--                           &lt;!&ndash; Button&ndash;&gt;-->
-<!--                           <a class="btn" href="blog-post.html">Read More</a>-->
-<!--                        </div>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; /blog-preview &ndash;&gt;-->
-<!--                     &lt;!&ndash; Blog item 3 &ndash;&gt;-->
-<!--                     <div class="blog-preview col-md-12">-->
-<!--                        &lt;!&ndash; Blog image &ndash;&gt;-->
-<!--                        <img src="img/blogprev3.jpg" alt="" />-->
-<!--                        <div class="latest-caption text-center">-->
-<!--                           <a href="blog-post.html">-->
-<!--                              <h4>Painting Class</h4>-->
-<!--                           </a>-->
-<!--                           &lt;!&ndash; Post Info &ndash;&gt;-->
-<!--                           <div class="post-info">-->
-<!--                              <p><i class="fa fa-clock-o"></i>Aug 24, 2015 at 9:00 PM</p>-->
-<!--                              <p><i class="fa fa-user"></i>by <a href="#">Mary Jane</a></p>-->
-<!--                              &lt;!&ndash; Post Comments &ndash;&gt;-->
-<!--                              <p><i class="fa fa-comment"></i><a href="#">81 Comments</a></p>-->
-<!--                           </div>-->
-<!--                           <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit. Lorem isuem amorem semprem Ratione, voluptatem lorem ipsuet alpacas dolorem animi nisi autem...</p>-->
-<!--                           &lt;!&ndash; Button&ndash;&gt;-->
-<!--                           <a class="btn" href="blog-post.html">Read More</a>-->
-<!--                        </div>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; /blog-preview &ndash;&gt;-->
-<!--                     &lt;!&ndash; Blog item 4 &ndash;&gt;-->
-<!--                     <div class="blog-preview col-md-12">-->
-<!--                        &lt;!&ndash; Blog image &ndash;&gt;-->
-<!--                        <img src="img/blogprev4.jpg" alt="" />-->
-<!--                        <div class="latest-caption text-center">-->
-<!--                           <a href="blog-post.html">-->
-<!--                              <h4>New Classroom</h4>-->
-<!--                           </a>-->
-<!--                           &lt;!&ndash; Post Info &ndash;&gt;-->
-<!--                           <div class="post-info">-->
-<!--                              <p><i class="fa fa-clock-o"></i>Aug 24, 2015 at 9:00 PM</p>-->
-<!--                              <p><i class="fa fa-user"></i>by <a href="#">Mary Jane</a></p>-->
-<!--                              &lt;!&ndash; Post Comments &ndash;&gt;-->
-<!--                              <p><i class="fa fa-comment"></i><a href="#">81 Comments</a></p>-->
-<!--                           </div>-->
-<!--                           <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit. Lorem isuem amorem semprem Ratione, voluptatem lorem ipsuet alpacas dolorem animi nisi autem...</p>-->
-<!--                           &lt;!&ndash; Button&ndash;&gt;-->
-<!--                           <a class="btn" href="blog-post.html">Read More</a>-->
-<!--                        </div>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; /blog-preview &ndash;&gt;-->
-<!--                     &lt;!&ndash; Blog item 5 &ndash;&gt;-->
-<!--                     <div class="blog-preview col-md-12">-->
-<!--                        &lt;!&ndash; Blog image &ndash;&gt;-->
-<!--                        <img src="img/blogprev5.jpg" alt="" />-->
-<!--                        <div class="latest-caption text-center">-->
-<!--                           <a href="blog-post.html">-->
-<!--                              <h4>Our New Teacher</h4>-->
-<!--                           </a>-->
-<!--                           &lt;!&ndash; Post Info &ndash;&gt;-->
-<!--                           <div class="post-info">-->
-<!--                              <p><i class="fa fa-clock-o"></i>Aug 24, 2015 at 9:00 PM</p>-->
-<!--                              <p><i class="fa fa-user"></i>by <a href="#">Mary Jane</a></p>-->
-<!--                              &lt;!&ndash; Post Comments &ndash;&gt;-->
-<!--                              <p><i class="fa fa-comment"></i><a href="#">81 Comments</a></p>-->
-<!--                           </div>-->
-<!--                           <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit. Lorem isuem amorem semprem Ratione, voluptatem lorem ipsuet alpacas dolorem animi nisi autem...</p>-->
-<!--                           &lt;!&ndash; Button&ndash;&gt;-->
-<!--                           <a class="btn" href="blog-post.html">Read More</a>-->
-<!--                        </div>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; /blog-preview &ndash;&gt;-->
-<!--                     &lt;!&ndash; Blog item 6 &ndash;&gt;-->
-<!--                     <div class="blog-preview col-md-12">-->
-<!--                        &lt;!&ndash; Blog image &ndash;&gt;-->
-<!--                        <img src="img/blogprev6.jpg" alt="" />-->
-<!--                        <div class="latest-caption text-center">-->
-<!--                           <a href="blog-post.html">-->
-<!--                              <h4>Toddler Care</h4>-->
-<!--                           </a>-->
-<!--                           &lt;!&ndash; Post Info &ndash;&gt;-->
-<!--                           <div class="post-info">-->
-<!--                              <p><i class="fa fa-clock-o"></i>Aug 24, 2015 at 9:00 PM</p>-->
-<!--                              <p><i class="fa fa-user"></i>by <a href="#">Mary Jane</a></p>-->
-<!--                              &lt;!&ndash; Post Comments &ndash;&gt;-->
-<!--                              <p><i class="fa fa-comment"></i><a href="#">81 Comments</a></p>-->
-<!--                           </div>-->
-<!--                           <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit. Lorem isuem amorem semprem Ratione, voluptatem lorem ipsuet alpacas dolorem animi nisi autem...</p>-->
-<!--                           &lt;!&ndash; Button&ndash;&gt;-->
-<!--                           <a class="btn" href="blog-post.html">Read More</a>-->
-<!--                        </div>-->
-<!--                     </div>-->
-<!--                     &lt;!&ndash; /blog-preview &ndash;&gt;-->
-<!--                  </div>-->
-<!--                  &lt;!&ndash; /owl-blog &ndash;&gt;-->
-<!--               </div>-->
-<!--               &lt;!&ndash; /row &ndash;&gt;-->
-<!--            </div>-->
-<!--            &lt;!&ndash; /container &ndash;&gt;-->
-<!--         </section>-->
-         <!-- Section ends -->
+
          <!-- Parallax object -->
          <div class="parallax-object3 hidden-sm hidden-xs" data-0="opacity:1;"
             data-100="transform:translatex(0%);"
             data-center-center="transform:translatex(380%);">
             <!-- Image -->
-            <img src="img/parallaxobject3.png" alt="">
+            <img src="img/Images/parallaxobject3.png" alt="">
          </div>
          <!-- Section Prices -->
-<!--         <section id="prices" class="color-section">-->
-            <!-- svg triangle shape -->
-<!--            <svg id="triangleShadow" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">-->
-<!--               <path class="trianglePath1" d="M0 0 L50 100 L100 0 Z" />-->
-<!--            </svg>-->
-<!--            <div class="container">-->
-<!--               <div class="col-lg-8 col-lg-offset-2">-->
-                  <!-- Section heading -->
-<!--                  <div class="section-heading">-->
-<!--                     <h2>Our Prices</h2>-->
-<!--                  </div>-->
-<!--               </div>-->
-<!--               <div class="row">-->
-<!--                  <div class="col-md-12 text-center">-->
-                     <!-- Price tables -->
-<!--                     <div class="pricing pricing-palden">-->
-<!--                        <div class="pricing-item col-lg-4 col-md-4 col-sm-12">-->
-<!--                           <div class="pricing-deco">-->
-<!--                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>-->
-<!--                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>-->
-<!--                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>-->
-<!--                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>-->
-<!--                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>-->
-<!--                              </svg>-->
-<!--                              <h3 class="pricing-header">Infants & Toddlers</h3>-->
-<!--                           </div>-->
-                           <!-- List -->
-<!--                           <ul class="pricing-feature-list">-->
-<!--                              <li>-->
-<!--                                 <h3 class="pricing-title">Weekly</h3>-->
-<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>250-->
-<!--                                       <span class="pricing-period">/ week (if paid in advance)</span>-->
-<!--                                    </div>-->
-<!--                              </li>-->
-<!--                              <li>-->
-<!--                                 <h3 class="pricing-title">Daily</h3>-->
-<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>50-->
-<!--                                       <span class="pricing-period">/ day (not pro rated)</span>-->
-<!--                                    </div>-->
-<!--                              </li>-->
-<!--                           </ul>-->
-
-                           <!-- Button-->
-<!--                           <div class="page-scroll">-->
-<!--                              <a class="btn" href="#contact">Contact us</a>-->
-<!--                           </div>-->
-                           <!--/page-scroll-->
-<!--                        </div>-->
-<!--                        <div class="pricing-item pricing-item-featured col-lg-4 col-md-4 col-sm-12">-->
-<!--                           <div class="pricing-deco">-->
-<!--                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>-->
-<!--                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>-->
-<!--                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>-->
-<!--                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>-->
-<!--                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>-->
-<!--                              </svg>-->
-<!--                              <h3 class="pricing-header">Preschool Age</h3>-->
-<!--                           </div>-->
-                           <!-- List -->
-<!--                           <ul class="pricing-feature-list">-->
-<!--                              <li>-->
-<!--                                 <h3 class="pricing-title">Weekly</h3>-->
-<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>240-->
-<!--                                    <span class="pricing-period">/ week (if paid in advance)</span>-->
-<!--                                 </div>-->
-<!--                              </li>-->
-<!--                              <li>-->
-<!--                                 <h3 class="pricing-title">Daily</h3>-->
-<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>50-->
-<!--                                    <span class="pricing-period">/ day (not pro rated)</span>-->
-<!--                                 </div>-->
-<!--                              </li>-->
-<!--                           </ul>-->
-                           <!-- Button-->
-<!--                           <div class="page-scroll">-->
-<!--                              <a class="btn" href="#contact">Contact us</a>-->
-<!--                           </div>-->
-                           <!--/page-scroll-->
-<!--                        </div>-->
-<!--                        <div class="pricing-item col-lg-4 col-md-4 col-sm-12">-->
-<!--                           <div class="pricing-deco">-->
-<!--                              <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>-->
-<!--                                 <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>-->
-<!--                                 <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>-->
-<!--                                 <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>-->
-<!--                                 <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>-->
-<!--                              </svg>-->
-<!--                              <h3 class="pricing-header">School Age</h3>-->
-<!--                           </div>-->
-                           <!-- List -->
-<!--                           <ul class="pricing-feature-list">-->
-<!--                              <li>-->
-<!--                                 <h3 class="pricing-title">Weekly</h3>-->
-<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>230-->
-<!--                                    <span class="pricing-period">/ week (if paid in advance)</span>-->
-<!--                                 </div>-->
-<!--                              </li>-->
-<!--                              <li>-->
-<!--                                 <h3 class="pricing-title">Daily</h3>-->
-<!--                                 <div class="pricing-price"><span class="pricing-currency">$</span>50-->
-<!--                                    <span class="pricing-period">/ day (not pro rated)</span>-->
-<!--                                 </div>-->
-<!--                              </li>-->
-<!--                           </ul>-->
-                           <!-- Button-->
-<!--                           <div class="page-scroll">-->
-<!--                              <a class="btn" href="#contact">Contact us</a>-->
-<!--                           </div>-->
-                           <!--/page-scroll-->
-<!--                        </div>-->
-                        <!--/pricing-item-->
-<!--                     </div>-->
-                     <!-- /col-sm-12-->
-<!--                  </div>-->
-                  <!-- /row -->
-<!--               </div>-->
-               <!-- /container-->
-<!--            </div>-->
-<!--         </section>-->
-         <!-- /Section ends -->
-         <!-- Section Call to Action -->
          <section id="call-to-action" class="small-section">
             <div class="container text-center">
                <div class="col-lg-6 col-lg-offset-6 col-sm-6">

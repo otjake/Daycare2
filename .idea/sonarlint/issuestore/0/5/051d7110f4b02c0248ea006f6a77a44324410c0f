@@ -1,0 +1,46 @@
+
+aphp:S107™'"GThis function has 8 parameters, which is greater than the 7 authorized.(ø£‡ıÿÿÿÿ
+W	php:S1142´"<This method has 5 returns, which is more than the 3 allowed.(úŒòÎøÿÿÿÿ
+W	php:S1142ë"<This method has 5 returns, which is more than the 3 allowed.(ëÇ¼Òıÿÿÿÿ
+R	php:S1142Ç
+"<This method has 5 returns, which is more than the 3 allowed.(»±ßè
+R	php:S1142í"<This method has 6 returns, which is more than the 3 allowed.(Ã£Ï
+W	php:S1142Ö"<This method has 4 returns, which is more than the 3 allowed.(Êúšòüÿÿÿÿ
+W	php:S1142ä"<This method has 5 returns, which is more than the 3 allowed.(á¼¿Îûÿÿÿÿ
+R	php:S1142‹#"<This method has 5 returns, which is more than the 3 allowed.(ÕÜÎ×
+o	php:S3776¨	"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(éÏˆêıÿÿÿÿ
+o	php:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(’’Šÿøÿÿÿÿ
+j	php:S3776›"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(â–«‡
+i	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(—ïÄ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(å¦½¶
+o	php:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(øàçùÿÿÿÿ
+j	php:S3776à"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(Êî
+j	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ÿ©÷
+o	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(æé—øÿÿÿÿ
+j	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(€†ÿĞ
+o	php:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Êúšòüÿÿÿÿ
+j	php:S3776å "TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(«»
+o	php:S3776«%"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÿç¸±ÿÿÿÿÿ
+b	php:S1192ô"LDefine a constant instead of duplicating this literal " boundary="" 8 times.(…ÖØä
+d	php:S1192("JDefine a constant instead of duplicating this literal "text/html" 4 times.(İÌ ßøÿÿÿÿ
+`	php:S1192–"JDefine a constant instead of duplicating this literal "/[\r\n]+/" 3 times.(§À­ã
+b	php:S1192¼"LDefine a constant instead of duplicating this literal "%s (%s): %s" 3 times.(÷øçã
+f	php:S1192Ö""KDefine a constant instead of duplicating this literal "video/mpeg" 3 times.(ìğ ©ùÿÿÿÿ
+c	php:S1192¯""MDefine a constant instead of duplicating this literal "audio/x-aiff" 3 times.(¦ºà—
+r	php:S1192˜""WDefine a constant instead of duplicating this literal "application/x-director" 3 times.(øüĞıÿÿÿÿ
+`	php:S1192&"KDefine a constant instead of duplicating this literal "text/plain" 4 times.(•—‰Ÿ
+s	php:S1192""XDefine a constant instead of duplicating this literal "application/x-httpd-php" 4 times.(™„å…üÿÿÿÿ
+m	php:S1192""WDefine a constant instead of duplicating this literal "application/postscript" 3 times.(ÜÆË–
+c	php:S1192¼"HDefine a constant instead of duplicating this literal "file://" 4 times.(ØÅ©üÿÿÿÿÿ
+u	php:S1192ƒ""ZDefine a constant instead of duplicating this literal "application/octet-stream" 10 times.(÷É×úıÿÿÿÿ
+f	php:S1192«""KDefine a constant instead of duplicating this literal "audio/mpeg" 3 times.(ÇàıÙÿÿÿÿÿ
+a	php:S1192º""KDefine a constant instead of duplicating this literal "image/jpeg" 3 times.(î¸«ß
+^	php:S1192Œ"HDefine a constant instead of duplicating this literal " type="" 3 times.(•šÍ¤
+d	php:S1192ï"IDefine a constant instead of duplicating this literal "Result: " 3 times.(ÏÍ‘øÿÿÿÿ
+>	php:S1125‚"(Remove the literal "true" boolean value.(µ…·
+]	php:S1117Ø"GRename "$to" which has the same name as the field declared at line 595.(¬âïÚ
+{	php:S1448 "fClass "PHPMailer" has 113 methods, which is greater than 20 authorized. Split it into smaller classes.(‰À©Ï
+J	php:S1066Î"/Merge this if statement with the enclosing one.(°ĞÒÊÿÿÿÿÿ
+R	php:S1155ø"7Use empty() to check whether the array is empty or not.(ëõ‚šøÿÿÿÿ
+R	php:S1155û%"7Use empty() to check whether the array is empty or not.(¼˜¥°ıÿÿÿÿ
+”php:S138Ì"zThis function "createBody" has 255 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(æé—øÿÿÿÿ
