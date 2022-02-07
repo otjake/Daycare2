@@ -372,12 +372,12 @@
                   <div class="col-sm-12 col-lg-5">
                      <!-- Carousel -->
                      <div id="owl-about" class="owl-carousel">
+                         <div class="item">
+                            <img class="img-responsive" src="img/Images/about0.png" alt="">
+                         </div>
                         <div class="item">
                            <img class="img-responsive" src="img/Images/about1.png" alt="">
                         </div>
-<!--                        <div class="item">-->
-<!--                           <img class="img-responsive" src="img/Images/about2.jpg" alt="">-->
-<!--                        </div>-->
                         <div class="item">
                            <img class="img-responsive" src="img/Images/schoolage3.png" alt="">
                         </div>
@@ -557,10 +557,10 @@
                   <div class="col-lg-7 col-md-7">
                      <h3>Meet our Qualified Staff</h3>
                      <p>
-                         Our Director,Mrs Sandra Clemens, has 20 years experience in childcare,
-                         and is certified in both early childhood education,
+                         Our Director,Mrs Sandra Clemens, has 10 years experience in childcare development,
+                         with liscence number 304313964,
                          And like all our staff she is trained in first Aid and CPR ,
-                         some having more than 5 years experience in child care development and well versed in child care development.
+                         some having more than 4 years experience and are well versed in child care development.
                      </p>
                   </div>
                </div>
@@ -1099,7 +1099,7 @@
                          </div>
 
                          <!-- Image 6 -->
-                         <div class="col-sm-6 col-md-6 col-lg-4">
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
                              <div class="portfolio-item">
                                  <div class="gallery-thumb">
                                      <img class="img-responsive" src="img/Images/gallery6.png" alt="">
@@ -1157,7 +1157,18 @@
                              </div>
                          </div>
 
-                         <!-- Image 10 -->
+                         <!-- Image 11-->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/facility14.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/facility14.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+                         <!-- Image 12 -->
                          <div class="col-sm-6 col-md-6 col-lg-4 all">
                              <div class="portfolio-item">
                                  <div class="gallery-thumb">
@@ -1169,13 +1180,37 @@
                              </div>
                          </div>
 
-                         <!-- Image 11-->
+                         <!-- Image 13-->
                          <div class="col-sm-6 col-md-6 col-lg-4 events">
                              <div class="portfolio-item">
                                  <div class="gallery-thumb">
                                      <img class="img-responsive" src="img/Images/service3.png" alt="">
                                      <span class="overlay-mask"></span>
                                      <a href="img/Images/service3.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 14-->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/facility12.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/facility12.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
+                                         <i class="fa fa-expand"></i></a>
+                                 </div>
+                             </div>
+                         </div>
+
+                         <!-- Image 15-->
+                         <div class="col-sm-6 col-md-6 col-lg-4 facilities">
+                             <div class="portfolio-item">
+                                 <div class="gallery-thumb">
+                                     <img class="img-responsive" src="img/Images/facility13.png" alt="">
+                                     <span class="overlay-mask"></span>
+                                     <a href="img/Images/facility13.png" data-gal="prettyPhoto[gallery]" class="link centered" title="You can add caption to pictures.">
                                          <i class="fa fa-expand"></i></a>
                                  </div>
                              </div>
@@ -1353,7 +1388,7 @@
                      <tbody>
                         <tr>
                            <td class="text-left">Monday to Friday</td>
-                           <td class="text-right">7 a.m. to 7 p.m.</td>
+                           <td class="text-right">7:00 a.m. to 6:00 p.m.</td>
                         </tr>
                         <tr>
                            <td class="text-left">Weekends / Holidays</td>
