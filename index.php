@@ -1371,12 +1371,12 @@
                   <a href="#page-top"><img src="img/Images/DDCLEM_white.png" alt="" class="center-block"></a>
                   <!-- social-icons -->	
                   <div class="social-media">
-                     <a href="https://twitter.com/ddclems22?s=20&t=Hl1dg6-oG1Bn6WedPhz75A" title=""><i class="fa fa-twitter"></i></a>
-                     <a href="https://web.facebook.com/profile.php?id=100077493399045" title=""><i class="fa fa-facebook"></i></a>
-<!--                     <a href="#" title=""><i class="fa fa-linkedin"></i></a>-->
-                     <a href="https://pin.it/63BQXvW" title=""><i class="fa fa-pinterest"></i></a>
-                     <a href="https://www.instagram.com/ddclems22/?hl=en" title=""><i class="fa fa-instagram"></i></a>
-                    <a href="https://api.whatsapp.com/send?phone=+1 (657) 445-8134"><i class="fa fa-whatsapp"></i></a>
+                     <a href="https://twitter.com/ddclems22?s=20&t=Hl1dg6-oG1Bn6WedPhz75A" title="" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter"></i></a>
+                     <a href="https://web.facebook.com/profile.php?id=100077493399045" title="" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a>
+<!--                     <a href="#" title="" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin"></i></a>-->
+                     <a href="https://pin.it/63BQXvW" title="" target="_blank" rel="noopener noreferrer"><i class="fa fa-pinterest"></i></a>
+                     <a href="https://www.instagram.com/ddclems22/?hl=en" title="" target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=+1 (657) 445-8134" target="_blank" rel="noopener noreferrer"><i class="fa fa-whatsapp"></i></a>
 
                   </div>
                </div>
