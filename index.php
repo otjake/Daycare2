@@ -762,7 +762,7 @@
                         <div class="row">
                            <div class="col-md-5 col-lg-5 pull-left">
                               <!-- Activity image-->
-                              <img src="img/Images/activity3-1.png" alt="" class="img-responsive img-circle">
+                              <img src="img/Images/lunch2.png" alt="" class="img-responsive img-circle">
                            </div>
                            <div class="col-md-7 col-lg-7 pull-left">
                               <!-- Activity text-->
