@@ -210,36 +210,39 @@ jQuery(function ($) {
 
     $(document).ready(function () {
         $("#contact_info").submit(function (event) {
-            var formData = {
-                'name'		: $('input[name=name]').val(),
-                'email'	: $('input[name=email]').val(),
-                'subject'		: $('input[name=subject]').val(),
-                'processor'		: $('input[name=processor]').val(),
-                'message'			: $('textarea[name=message]').val()
-            };
+            event.preventDefault();
             $('#submit_btn').prop("disabled",true);
             $('#submit_btn').text('Processing');
+            console.log("details",this.message.value,this.name.value,this.email.value,this.subject.value)
 
-            console.log("Data forms",formData)
+            // this.extra_message.value = this.extra_message.value ?? '';
+            // const message_div = document.getElementById('message');
+            //
+            // message_div.innerHTML = `<span class="form_response">Please hold...</span>`;
 
-            $.ajax({
-                type: "POST",
-                url: "processors.php",
-                data: formData,
-                dataType: "json",
-                encode: true,
-            }).done(function (data) {
-                $('.feedbackmsg').html(data.message);
-                $('#submit_btn').text('Send Message');
-                setTimeout(function(){
-                    $('.feedbackmsg').html('');
-                    $('#submit_btn').prop("disabled",false);
 
-                }, 5000);
+            // these IDs from the previous steps
+            emailjs.sendForm('service_hf76zs9','template_cym6d7u', '#contact_info')
+                .then(function() {
+                    console.log('SUCCESS!');
+                        $('.feedbackmsg').html('<div class="alert alert-success">Success!</div>');
+                        $('#submit_btn').text('Send Message');
+                        setTimeout(function(){
+                            $('.feedbackmsg').html('');
+                            $('#submit_btn').prop("disabled",false);
 
-            });
+                        }, 5000);
+                }, function(error) {
+                    console.log('FAILED...', error);
+                    $('.feedbackmsg').html('<div class="alert alert-danger">Error!</div>');
+                    $('#submit_btn').text('Send Message');
+                    setTimeout(function(){
+                        $('.feedbackmsg').html('');
+                        $('#submit_btn').prop("disabled",false);
 
-            event.preventDefault();
+                    }, 5000);
+                });
+
         });
 
 

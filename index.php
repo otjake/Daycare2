@@ -35,6 +35,12 @@
       <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-touch-icon-72x72.html">
       <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-touch-icon-114x114.html">
       <link rel="shortcut icon" href="img/Images/dd_clem.png" type="image/x-icon">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+            emailjs.init("Fe1Z8gxhJtIiYm7ku");
+        })();
+    </script>
 </head>
    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
       <!-- Page width 'Boxed' of 'Full' -->
